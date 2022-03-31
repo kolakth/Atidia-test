@@ -2,7 +2,8 @@
 
 A. Now think about efficiency. 
 What if the contents of the array are very large?
-Did you create a new array?
+Did you create a new array?\n
+
 No, I didn't create a new array. The array content can be mutable.
 
 B. It’s still working even if the array is large.
